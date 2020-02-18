@@ -11,7 +11,7 @@ def carry_me_over(num, num2):
 
 run_the_game = False
 numbers_to_randomize = []
-new_var = 0
+new_var = 109
 
 while True:
     user_input1 = input('Give me a number between 1 and 100: ')
